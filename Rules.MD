@@ -1,6 +1,6 @@
 # Rules and Regulations for Debatrium
 Version 1.0<br>
-Published on June 14, 2024 (7:30PM UTC+8)
+Published on June 14, 2024 (7:50PM UTC+8)
 
 
 ## The Rules and Regulations
@@ -17,4 +17,4 @@ That's all, just 5. As we progress, I'll update the rules regularly.
 Published on the 14th day of June 2024 by:<br>
 (SIGNED)<br>
 TheDoggyBrad Software Labs<br>
-CEO, COO, CVO and CTO of Debatrium
+CEO, COO, CVO, CTO and Administrator of Debatrium
