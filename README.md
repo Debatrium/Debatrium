@@ -1,7 +1,7 @@
 <img src="logo.jpg" width="128px" height="128px">
 
 
-# Debatrium (EARLY BETA)
+# Debatrium
 Visit Debatrium at [https://debatrium.github.io/](https://debatrium.github.io/)
 
 
