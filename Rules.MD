@@ -17,4 +17,4 @@ That's all, just 5. As we progress, I'll update the rules regularly.
 Published on the 14th day of June 2024 by:<br>
 (SIGNED)<br>
 TheDoggyBrad Software Labs<br>
-CEO, COO, and CVO of Debatrium
+CEO, COO, CVO and CTO of Debatrium
