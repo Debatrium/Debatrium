@@ -2,7 +2,7 @@
 
 
 # Debatrium (EARLY BETA)
-Visit Debatrium at [https://github.com/Debatrium/Debatrium/discussions](https://github.com/Debatrium/Debatrium/discussions)
+Visit Debatrium at [https://debatrium.github.io/](https://debatrium.github.io/)
 
 
 ## About Debatrium
