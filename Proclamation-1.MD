@@ -5,7 +5,7 @@ Topic: The creation of the Constitution
 Whereas, it will give a clear path of governance of Debatrium and have a clear principle and guidelines for leadership and orders.
 <br>
 I TheDoggyBrad Software Lab, will accept the responsibility of creating a constitution for Debatrium.<br><br>
-While the construction of the long-run constitution of Debatrium, I officially release a temporary constitution with the following contents:
+While the construction of the long-run constitution of Debatrium is on-going, I officially release a temporary constitution with the following contents:
 
 ### Temporary Constitution of Debatrium
 1. Debatrium will be defined as a forum of liberty. Where everyone has rights to communicate with each other.<br>
