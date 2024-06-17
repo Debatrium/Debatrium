@@ -23,7 +23,7 @@ While the construction of the long-run constitution of Debatrium is on-going, I 
 By the power of the CEO,<br>
 TheDoggyBrad Software Lab<br><br>
 By the acceptance of the COO,<br>
-TheDoggyBrad Software Lab<br><
+TheDoggyBrad Software Lab<br>
 It is declared that this proclamation including its temporary constitution shall be implemented upon its release to the Debatrium forum.
 
 #### Ratification
