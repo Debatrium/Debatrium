@@ -27,6 +27,7 @@ TheDoggyBrad Software Lab<br>
 It is declared that this proclamation including its temporary constitution shall be implemented upon its release to the Debatrium forum.
 
 #### Ratification
+On the 17th day of June, 2024<br>
 So ordered,<br>
 (Typingly Signed)
 TheDoggyBrad Software Lab
